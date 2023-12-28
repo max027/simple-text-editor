@@ -1,0 +1,19 @@
+{
+  "Arial": "Arial, Helvetica, sans-serif",
+  "Cambria": "Cambria, Cochin, Georgia, Times, 'Times New Roman', serif",
+  "Cursive": "cursive",
+  "Courier New": "'Courier New', Courier, monospace",
+  "System UI": "system-ui",
+  "Franklin Gothic": "'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif",
+  "Gill Sans": "'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif",
+  "Georgia": "Georgia, 'Times New Roman', Times, serif",
+  "Lucida Sans": "'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode'",
+  "Impact": "Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif",
+  "Monospace": "monospace",
+  "Roboto UI": "Roboto, 'Segoe UI', Tahoma, sans-serif",
+  "Segoe UI": "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif",
+  "Serif": "serif",
+  "Times New Roman": "'Times New Roman', Times, serif",
+  "Trebuchet MS": "'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial",
+  "Verdana": "Verdana, Geneva, Tahoma, sans-serif"
+}

@@ -1,0 +1,28 @@
+{
+  "short_name": "Notebook",
+  "name": "Notebook",
+  "theme_color": "#fff",
+  "background_color": "#fff",
+  "start_url": "/",
+  "display": "minimal-ui",
+  "gcm_user_visible_only": true,
+  "edge_side_panel": {
+    "preferred_width": 376
+  },
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/ico",
+      "sizes": "32x32"
+    },
+    {
+      "src": "icon/favicon-200x200.png",
+      "type": "image/png",
+      "sizes": "200x200"
+    }
+  ],
+  "orientation": "portrait",
+  "scope": "/",
+  "description": "Notebook is generic text editor thats let you create, open, and read files",
+  "author": "Expert Modassir"
+}

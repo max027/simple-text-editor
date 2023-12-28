@@ -1,0 +1,15 @@
+{
+  "editor.fontWeight": "regular",
+  "editor.fontStyle": "normal",
+  "editor.zoomEasing": "on",
+  "editor.statusBar": "on",
+  "editor.zoomValue": 100,
+  "editor.tabSize": 2,
+  "editor.fontSize": 17,
+  "editor.zoom": "on",
+  "editor.wordWrap": "on",
+  "editor.fileType": "on",
+  "editor.charset": "UTF-8",
+  "editor.colorTheme": "dark",
+  "editor.fontFamily": "Monospace"
+}
